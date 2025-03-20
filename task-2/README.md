@@ -4,4 +4,4 @@ Task 2:
 
 -> Write the code to exclude the some files or folders.
 
--> Verify the changes after doing a commit and pushing to the remote repo.
+-> Verify the changes using `git status`.
