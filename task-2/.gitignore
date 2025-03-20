@@ -1,5 +1,5 @@
 # exclude these files
-.testFile.txt
+demoFile.txt
 
 # exclude these folders
 testFolder/
